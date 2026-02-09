@@ -37,8 +37,8 @@ Les TPs couvrent les fondamentaux de la programmation Python avec un accent part
 
 | Semaine | Thème | Contenu | Deadline | Statut |
 |---------|-------|---------|----------|--------|
-| **1** | [Bases Python](semaine_1_bases/) | Variables, types, opérations | 15/02/2025 | 📝 |
-| **2** | [Listes et Boucles](semaine_2_listes_boucles/) | Structures de données, itérations | 22/02/2025 | 📝 |
+| **1** | [Bases Python](semaine_1_bases/) | Variables, types, opérations | 20/02/2025 | 📝 |
+| **2** | [Listes et Boucles](semaine_2_listes_boucles/) | Structures de données, itérations | 28/02/2025 | 📝 |
 | **3** | [Fonctions](semaine_3_fonctions/) | Définition, paramètres, retour | 01/03/2025 | 📝 |
 | **4** | [NumPy](semaine_4_numpy/) | Arrays, opérations vectorielles | 08/03/2025 | 📝 |
 | **5** | [Matplotlib](semaine_5_matplotlib/) | Visualisation de données | 15/03/2025 | 📝 |
