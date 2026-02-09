@@ -7,7 +7,7 @@
 
 **Université** : [Nom de votre université]  
 **Enseignant** : [Votre nom]  
-**Contact** : [votre.email@universite.fr]  
+**Contact** : [louadj.kahina@gmail.com]  
 **Année universitaire** : 2025-2026
 
 ---
