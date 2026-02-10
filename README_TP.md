@@ -1,4 +1,4 @@
-# Travaux Pratiques — L2 Mathématiques
+# Travaux Pratiques — L2 GP
 
 Ce dépôt contient les Travaux Pratiques du cours.
 Les notebooks fournis servent de support pédagogique.
