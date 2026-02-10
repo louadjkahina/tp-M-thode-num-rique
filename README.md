@@ -5,8 +5,8 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**Université** : [Nom de votre université]  
-**Enseignant** : [Votre nom]  
+**Université** : [Université de Bouira]  
+**Enseignant** : [Louadj Kahina]  
 **Contact** : [louadj.kahina@gmail.com]  
 **Année universitaire** : 2025-2026
 
